@@ -2,7 +2,7 @@
 
 ## *New Nomenclature System for the RSV-A and RSV-B Genotypes*
 
-This repository is a sharing space for the newrsv research members. We will have specific folders for data, literature, analysis and reports. The authorized members can access, edit and update the files and can even add new folders if required! Please update *README* with a comment and filename *(yyyy-mm-dd-initials before the filename)* so that the next member may have idea on *where to start*..
+This repository is a sharing space for the newrsv research members. We will have specific folders for data, literature, analysis and reports. The authorized members can access, edit and update the files and can even add new folders if required! Please update *README* of specific folder with a comment and filename *(yyyy-mm-dd-initials before the filename)* so that the next member may have idea on *where to start*..
  
 *LIST OF FOLDERS*
 
