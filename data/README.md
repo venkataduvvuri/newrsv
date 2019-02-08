@@ -8,5 +8,24 @@
 
 ## Step 2. Data Management
 
-- 
+- Please remove sequences that have the text of Human respiratory syncytial virus MinA, Human respiratory syncytial virus MinB, patent, Chain, construct etc. in the title from the downloaded textfile NCBI.
+
+- ** Meanwhile, please have and print the each gene order on genome, gene legnth, and the first 4 codons and last 4 condons of each gene on paper. These will help while working with multiple alignment file.
+
+- Multiple alignment: 
+
+       - Make sure to use full genome(s) as a reference or template sequence, and run the multiple alignment using "MAFFT" https://mafft.cbrc.jp/alignment/server/ - this is quick for this huge run. 
+       
+       - Manually review the multiple alignment and check how gene(s) are distributed with reference to template.
+       
+       - If everything looks OK then 1. make sure have back of main dataset, 2. using the above collected ** make gene-based files, and also whole genome file.
+       
+       - Data cleaning: - will discuss
+       
+       - collect the genbank meta-data: - Geoboost (I am working on this - will have an idea how it works) - so decide upon. or we may look for alternatives
+       
+       - Once have all data - will update the sequence titles and make .csv files for next step.
+       
+  - Descriptive statistics
+       
        
