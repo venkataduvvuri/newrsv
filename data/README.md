@@ -1,4 +1,4 @@
-# Database Collection and Management
+# Data Collection and Database Management
 
 ## Step 1. Data Collection
 
