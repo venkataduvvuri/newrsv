@@ -26,6 +26,6 @@
        
        - Once have all data - will update the sequence titles and make .csv files for next step.
        
-  - Descriptive statistics
+ - Descriptive statistics
        
        
