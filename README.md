@@ -29,6 +29,9 @@
        
        - Once have all data - will update the sequence titles and make .csv files for next step.
        
+ - Collection of Genbank Meta-data
+       
+       
  - Descriptive statistics
 
 
